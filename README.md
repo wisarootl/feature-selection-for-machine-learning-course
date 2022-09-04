@@ -6,7 +6,7 @@
 
 My note on Feature Selection for Machine Learning course
 
-Skill: `Feature Selection`, ``
+Skill: `Feature Selection`, `Feature Engine`, `Scikit Learn`, `Pandas`, `Mutual Information`
 
 [<img src="./feature_selection.png" width="248">](https://www.courses.trainindata.com/p/feature-selection-for-machine-learning)
 
